@@ -1,1 +1,6 @@
+com/smop/booking/service/service/BookingService.class
 com/smop/booking/service/BookingServiceApplication.class
+com/smop/booking/service/repository/BookingRepository.class
+com/smop/booking/service/controller/BookingServiceEndpoint.class
+com/smop/booking/service/model/Booking.class
+com/smop/booking/service/exception/BookingNotFoundException.class
